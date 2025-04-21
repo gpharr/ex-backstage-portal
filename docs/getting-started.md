@@ -1,3 +1,9 @@
+# ![App Flow Diagram](assets/growmark.svg)
+
+This repository contains the codebase for the **myGROWMARK Solutions Center UI**, the front-end interface powering a modern and dynamic user experience for the GROWMARK Solutions Center.
+
+---
+
 ## 🚀 Quick Start
 
 To get up and running locally:
@@ -28,7 +34,7 @@ npm run serve
 
 ## 🎋 Branching Structure
 
-![App Flow Diagram](src/assets/myGMK%20UI%20Flow.drawio.png)
+![App Flow Diagram](assets/myGMK%20UI%20Flow.drawio.png)
 
 | Branch                    | Description |
 |-------------------------|-------------|

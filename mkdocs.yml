@@ -1,0 +1,8 @@
+site_name: Documentation Site
+
+nav:
+  - Home: index.md
+  - myGROWMARK UI: getting-started.md
+
+plugins:
+  - techdocs-core
