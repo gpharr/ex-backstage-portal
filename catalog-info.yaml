@@ -11,3 +11,21 @@ spec:
   type: website
   owner: john@example.com
   lifecycle: experimental
+
+---
+# MyGMK
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: myGROWMARK
+  description: This repository contains the codebase for the myGROWMARK Solutions Center UI, the front-end interface powering a modern and dynamic user experience for the GROWMARK Solutions Center.
+  tags:
+    - ui
+    - eccommerce
+    - evil
+  annotations:
+    backstage.io/techdocs-ref: dir:.
+spec:
+  type: service
+  lifecycle: experimental
+  owner: user:default/mark-orr
